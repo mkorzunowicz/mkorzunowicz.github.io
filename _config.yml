@@ -50,7 +50,8 @@ google_site_verification: SDgCzjUp-kXpXvrK4AgzbChkHBSQnNeejUAcdX2_96c # fill in 
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-N860SVXS3R # fill in your Google Analytics ID
+  id: # G-N860SVXS3R # fill in your Google Analytics ID
+  # nah.. let's try goat-counter, cookies and consent sucks
 
 # Prefer color scheme setting.
 #
@@ -104,7 +105,8 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    # env: # [development|production]
+    env: production
 
 pwa:
   enabled: true # the option for PWA feature
