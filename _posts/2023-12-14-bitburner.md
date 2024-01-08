@@ -32,4 +32,4 @@ if (ns.getHackingLevel() > ns.getServerRequiredHackingLevel(target) && ns.singul
 }
 ```
 
-![Bitburner corporation](/assets/images/bitburner-corpo.png)
+![Bitburner corporation](/assets/img/bitburner-corpo.png)

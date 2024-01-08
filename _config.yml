@@ -14,12 +14,12 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Michał's Blog # the main title
+title: Bas' Blog # the main title
 
 tagline: tehcnical jibber jabber of the aforementioned # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Technological and hobby blog of Michał Korzunowicz. FPV drones, programming, software. 
+  Technological and hobby blog of Michał "Bas" Korzunowicz. FPV drones, programming, software. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -74,7 +74,8 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D5603AQFap9OcS858uQ/profile-displayphoto-shrink_200_200/0/1679599069063?e=1708560000&v=beta&t=8PhtfZlirX-cGZrH0VByccZFwe17oDHk2FNhSPK5DO8
+# avatar: https://media.licdn.com/dms/image/D5603AQFap9OcS858uQ/profile-displayphoto-shrink_200_200/0/1679599069063?e=1708560000&v=beta&t=8PhtfZlirX-cGZrH0VByccZFwe17oDHk2FNhSPK5DO8
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
